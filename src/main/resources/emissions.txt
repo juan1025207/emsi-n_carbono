@@ -1,0 +1,6 @@
+Type: Building| Name: Edificio Central| Description: Oficinas principales con aire acondicionado| Energy: 250000.00 kWh| Floors: 12| Building Type: comercial| Carbon Footprint: 100.000000 ton CO2
+---
+Type: Car| Name: Tesla Model 3| Description: Vehículo eléctrico corporativo| Kilometers: 15000.00| Fuel: eléctrico| Year: 2023| Carbon Footprint: 0.750000 ton CO2
+---
+Type: Bicycle| Name: Bicicleta Urbana| Description: Bicicleta para transporte diario| Kilometers: 5000.00| Bicycle Type: urbana| Years Old: 3| Carbon Footprint: 0.001143 ton CO2
+---
