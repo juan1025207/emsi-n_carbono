@@ -1,0 +1,15 @@
+/target/
+/output/
+/*.log
+*.class
+*.iml
+.idea/
+.vscode/
+.DS_Store
+/.github/
+*.jar
+*.war
+*.ear
+*.log
+/*.tmp
+/.settings/
